@@ -11,3 +11,4 @@ Hint: the App component already imports the data for the BabyHog components. You
   * Use the radio buttons provided to alter the eye color state of the MasterHog component
   * Render the BabyHog components and their images based on the eye color prop from the MasterHog
   * Use state in the BabyHog component to change the image height of the Baby Hogs, and change the state accordingly when the increase or decrease buttons are clicked. (a good starting image height is '200px' and 10 is a good amount to increment/decrement.
+Test
